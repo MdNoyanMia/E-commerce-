@@ -118,6 +118,9 @@ padding: 65px 0;
 .textai h3 {
     text-align: center;
     padding-top: 15px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #000000;
 
 }
 
@@ -125,6 +128,8 @@ padding: 65px 0;
     padding-top: 10px;
     text-align: center;
     padding-bottom: 65px;
+    font-size:20px;
+    color: #666666;
 
 }
 
