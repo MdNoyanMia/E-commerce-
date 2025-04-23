@@ -1,0 +1,153 @@
+/* all common css start */
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+h1,
+h2 h3,
+h4,
+h5,
+h6,
+p {
+    padding: 0;
+    margin: 0;
+    line-height: 0.8;
+}
+
+/* all common css end */
+
+/* header part start */
+.nav-link {
+    color: #000000;
+    padding: 0 27px !important;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.nav-link:hover {
+    color: blue;
+}
+
+.icons i {
+    padding: 0 15px;
+    color: #000000;
+
+}
+
+/* header part end */
+#bannerpart {
+    padding-top: 151px;
+    padding-bottom: 115px;
+    background: url(../imges/scandinavian-interior-mockup-wall-decal-background\ 1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.baercart {
+    background: #FFF3E3;
+    padding: 65px 65px 40px 40px;
+    border-radius: 10px;
+}
+
+
+.baercart h4 {
+    padding: 15px 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.baercart h1 {
+
+    font-size: 52px;
+    font-weight: 700;
+    color: #B88E2F;
+    line-height: 60px;
+    width: 454px;
+    height: 127px;
+}
+
+.baercart p {
+    padding-top: 10px;
+    padding-bottom: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000000;
+    width: 486px;
+    height: 52px;
+}
+
+.baercart a {
+    padding: 30px 65px;
+    font-size: 16px;
+    font-weight: 500;
+    background: #B88E2F;
+    color: white;
+    margin-top: 50px;
+}
+.baercart a:hover{
+    background: #a9c40d;
+    color: #000000;
+}
+
+/* header part start */
+
+/*  Browse The Range start */
+
+#BrowseTheRange{
+padding: 65px 0;
+}
+.textai h3 {
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.textai p {
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 65px;
+
+}
+
+.imgeses h3{
+    text-align: center;
+
+}
+
+
+/*  Browse The Range end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
